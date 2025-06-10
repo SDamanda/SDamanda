@@ -17,12 +17,6 @@
 </div>
 
 
-<br>/>
-<br>/>
-<br>/>
-<br>/>
-<br>/>
-
 
 ![GitHub Stats](https://streak-stats.demolab.com?user=SDamanda&theme=jolly&hide_border=true)
 
