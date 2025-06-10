@@ -17,7 +17,7 @@
 </div>
 
 
-
+![snake gif](https://github.com/SDamanda/SDamanda/blob/output/github-contribution-grid-snake.svg)
 
 
 ![GitHub Stats](https://streak-stats.demolab.com?user=SDamanda&theme=jolly&hide_border=true)
