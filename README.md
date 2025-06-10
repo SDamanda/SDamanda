@@ -1,3 +1,1 @@
-- 🌱 Estou aprendendo no momento: PYTHON, JS, NEXT, NODE, BANCO DE DADOS;
-- 👯 Estou procurando colaborar em: Projetos web, interfaces, aplicações;
-- 📫 Como entrar em contato comigo: 
+[![SDamanda GitHub stats](https://github-readme-stats.vercel.app/api?username=SDamanda&show_icons=true&theme=dark)](https://github.com/seu-usuario/github-readme-stats)
